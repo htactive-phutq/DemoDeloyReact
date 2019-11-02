@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d703b98b2ab3e8de6c9f4c3ad53947cd",
+    "revision": "96db113f5ce528b2ac726c15fe9b4753",
     "url": "/DemoDeloyReact/index.html"
   },
   {
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DemoDeloyReact/static/js/3.529b5dbc.chunk.js"
   },
   {
-    "revision": "0feea08b7535bc6da7ed",
-    "url": "/DemoDeloyReact/static/js/4.2d6454c0.chunk.js"
+    "revision": "1342ebf8598d60004663",
+    "url": "/DemoDeloyReact/static/js/4.417034d5.chunk.js"
   },
   {
     "revision": "9d26b9cf89c61094e3ef",
     "url": "/DemoDeloyReact/static/js/main.e12e8127.chunk.js"
   },
   {
-    "revision": "29a1670e1b3ed2975e3d",
-    "url": "/DemoDeloyReact/static/js/runtime-main.586710ba.js"
+    "revision": "c44159096d2f8da2847f",
+    "url": "/DemoDeloyReact/static/js/runtime-main.94110334.js"
   },
   {
     "revision": "aa70f449b92c608717a6885c7871fa7b",
