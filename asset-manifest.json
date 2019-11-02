@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/DemoDeloyReact/static/css/main.776f1276.chunk.css",
+    "main.js": "/DemoDeloyReact/static/js/main.e12e8127.chunk.js",
+    "main.js.map": "/DemoDeloyReact/static/js/main.e12e8127.chunk.js.map",
+    "runtime-main.js": "/DemoDeloyReact/static/js/runtime-main.586710ba.js",
+    "runtime-main.js.map": "/DemoDeloyReact/static/js/runtime-main.586710ba.js.map",
+    "static/js/2.f9eafe68.chunk.js": "/DemoDeloyReact/static/js/2.f9eafe68.chunk.js",
+    "static/js/2.f9eafe68.chunk.js.map": "/DemoDeloyReact/static/js/2.f9eafe68.chunk.js.map",
+    "static/css/3.65d0fb34.chunk.css": "/DemoDeloyReact/static/css/3.65d0fb34.chunk.css",
+    "static/js/3.529b5dbc.chunk.js": "/DemoDeloyReact/static/js/3.529b5dbc.chunk.js",
+    "static/js/3.529b5dbc.chunk.js.map": "/DemoDeloyReact/static/js/3.529b5dbc.chunk.js.map",
+    "static/js/4.2d6454c0.chunk.js": "/DemoDeloyReact/static/js/4.2d6454c0.chunk.js",
+    "static/js/4.2d6454c0.chunk.js.map": "/DemoDeloyReact/static/js/4.2d6454c0.chunk.js.map",
+    "index.html": "/DemoDeloyReact/index.html",
+    "precache-manifest.70ac63e48794bfe996aac6b99b228bf6.js": "/DemoDeloyReact/precache-manifest.70ac63e48794bfe996aac6b99b228bf6.js",
+    "service-worker.js": "/DemoDeloyReact/service-worker.js",
+    "static/css/3.65d0fb34.chunk.css.map": "/DemoDeloyReact/static/css/3.65d0fb34.chunk.css.map",
+    "static/css/main.776f1276.chunk.css.map": "/DemoDeloyReact/static/css/main.776f1276.chunk.css.map",
+    "static/media/1.jpg": "/DemoDeloyReact/static/media/1.aa70f449.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.586710ba.js",
+    "static/css/3.65d0fb34.chunk.css",
+    "static/js/3.529b5dbc.chunk.js",
+    "static/css/main.776f1276.chunk.css",
+    "static/js/main.e12e8127.chunk.js"
+  ]
+}
